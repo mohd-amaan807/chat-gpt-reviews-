@@ -1,0 +1,15 @@
+# Core dependencies
+pandas
+numpy
+
+# Natural Language Processing
+nltk
+textblob
+wordcloud
+
+# Visualization
+matplotlib
+seaborn
+
+# Utility
+scikit-learn
